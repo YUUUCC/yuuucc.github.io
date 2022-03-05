@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Jiayu Yu</title>
+    <link>https://yuuucc.github.io/</link>
+    <description>Recent content in About on Jiayu Yu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://yuuucc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://yuuucc.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuuucc.github.io/about/</guid>
+      <description>About Me  YUUU, a student in Sichuan University, iGEMer, loving Sakurajima Mai forever.
+Research Interest My main research interests is in anaesthesia.
+Publications None(sad)
+Competitions    Year Award Category     2021 Finalist Interdisciplinary Contest In Modeling   2021 Gold Medal International Genetically Engineered Machine (iGEM) competition     </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://yuuucc.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuuucc.github.io/contact/</guid>
+      <description> Email: yuuu88364@gmail.com   Mailing Address  CHINA
+  Social  Twitter  </description>
+    </item>
+    
+  </channel>
+</rss>
